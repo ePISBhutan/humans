@@ -5,4 +5,5 @@
 4. Yeshi Wangchuk
 5. Ravinder Deol
 6. Ramakanth Kapoor
+3. Tashi Phuntsho
 
